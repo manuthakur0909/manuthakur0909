@@ -13,7 +13,7 @@
 - 💬 Ask me about ... Coding, Hacking, WebDevelopment
 
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/manuthakur0909/)     [Linkdln](https://www.linkedin.com/in/mandvi-bhadouriya-4a6618209)    [Twitter](https://twitter.com/MandviBhadouri2/)    [Facebook](https://www.facebook.com/mandvi.bhadouriya.37)    [YouTube](https://www.youtube.com/channel/UChS1IWNXlZlHtgWmvQtzcPg)
-
+[<img stc="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" >](https://www.facebook.com/mandvi.bhadouriya.37)
 - 😄 Pronouns: ... She/Her
 
 - ⚡ Fun fact: ... Can see two to four movies in a day, hear music whole day
