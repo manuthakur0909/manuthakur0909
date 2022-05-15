@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on ... webdevelopment, youtube
 
-- 🤔 I’m looking for help with ... DSPH community
+- 🤔 I’m looking for internship in cyber security domain
 
 - 💬 Ask me about ... Coding, Hacking, WebDevelopment
 
